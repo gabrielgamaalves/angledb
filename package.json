@@ -1,6 +1,6 @@
 {
     "name": "angledb",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Biblioteca de Nodejs, voltada para a criação e edição simples de um banco de dados JSON",
     "keywords": [
       "database",
@@ -20,8 +20,7 @@
     },
     "license": "MIT",
     "author": "Gabriel Gama Alves <gabrielgamaalves1@gmail.com>",
-    "type": "module",
-    "types": "./lib",
+    "types": "./lib/",
     "files": [
         "README.md",
         "LICENSE",

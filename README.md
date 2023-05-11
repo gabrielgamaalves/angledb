@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" align="right" width="220px">
+<img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" align="right" width="190px">
 
 # Angledb <code><img height="32" src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" alt="Nodejs"/></code>
 ![npm](https://img.shields.io/npm/v/trydb.ts?color=%23e02b2b&style=for-the-badge)
