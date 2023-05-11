@@ -19,7 +19,7 @@
       "url": "git+https://github.com/gabrielgamaalves/angledb.git"
     },
     "license": "MIT",
-    "author": "Gabriel Gama Alves <gabrielgamaalves1@gmail.com>",
+    "author": "Gabriel G. Alves <gabrielgamaalves1@gmail.com>",
     "types": "./lib/",
     "files": [
         "README.md",
