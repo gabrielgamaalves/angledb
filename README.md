@@ -1,9 +1,8 @@
 <img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" align="right" width="220px">
 
-# Angledb
+# Angledb <code><img height="32" src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" alt="Nodejs"/></code>
 ![npm](https://img.shields.io/npm/v/trydb.ts?color=%23e02b2b&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabrielgamaalves/angledb?style=for-the-badge) 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
 > Biblioteca de Nodejs, voltada para a criação e edição simples de um banco de dados JSON.
 
@@ -127,4 +126,4 @@ db.users.read() // Exemplo de uso.
 ---------
 
 ## Licença
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes

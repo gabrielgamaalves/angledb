@@ -1,18 +1,37 @@
 {
-  "name": "angledb",
-  "description": "Biblioteca de Nodejs, voltada para a criação e edição simples de um banco de dados JSON",
-  "version": "1.0.0",
-  "files": [
-    "README.md",
-    "LICENSE",
-    "index.js",
-    "lib/"
-  ],
-  "main": "index.js",
-  "repository": "https://github.com/gabrielgamaalves/angledb.git",
-  "author": "Gabriel Gama Alves <gabrielgamaalves1@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "fs": "^0.0.1-security"
+    "name": "angledb",
+    "version": "1.0.1",
+    "description": "Biblioteca de Nodejs, voltada para a criação e edição simples de um banco de dados JSON",
+    "keywords": [
+      "database",
+      "db",
+      "JSON",
+      "local",
+      "localStorage",
+      "Brasil"
+    ],
+    "homepage": "https://github.com/gabrielgamaalves/angledb#readme",
+    "bugs": {
+      "url": "https://github.com/gabrielgamaalves/angledb/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gabrielgamaalves/angledb.git"
+    },
+    "license": "MIT",
+    "author": "Gabriel Gama Alves <gabrielgamaalves1@gmail.com>",
+    "type": "module",
+    "types": "./lib",
+    "files": [
+        "README.md",
+        "LICENSE",
+        "index.js",
+        "lib/"
+    ],
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    },
+    "engines": {
+      "node": ">=16"
+    }
   }
-}
