@@ -57,12 +57,11 @@ Use o read() para ler o _database_. retornando um **object** ou um **array**
 const readAll = db.read()
 const readId = db.read("Jah5Fb0Pfa34Vbg8")
 
-console.log(readAll)
-console.log(readId)
+console.log("todos os items do database:\n" + readAll)
+console.log("item com o _id mencionado:\n" + readId)
 ```
 ```
-# readAll - Retornou todos os items do database
-
+todos os items do database:
    [
     {
         "_id": "Jah5Fb0Pfa34Vbg8",
@@ -75,10 +74,9 @@ console.log(readId)
         "email": "user2.me@example.com"
     }
    ]
+```
 
-
-# readId - Retornou o item com o _id mencionado
-
+```
     {
         "_id": "Jah5Fb0Pfa34Vbg8",
         "name": "User",
@@ -93,7 +91,7 @@ Use o update() para editar/adicionar algum elemento em um item presente no _data
 ```js
     db.update("Jah5Fb0Pfa34Vbg8", {
         name: "NewUser",
-        email: "NewUser.me@example.com"
+        email: "NewUser.me@example.com",
         work: "programmer" // novo elemento
     })
 ```
@@ -102,7 +100,7 @@ Use o update() para editar/adicionar algum elemento em um item presente no _data
 Use o delete() para deletar um item presente no _database_.
 > Passando o `_id` do item que deseja deletar.
 
----------
+_________
 
 ## Limites
 Ao passar objetos Javascript ou JSON grandes (~ 10-100 MB), talvez ocorrerá problemas no desempenho do seu projeto, voltado ao **angledb**.
