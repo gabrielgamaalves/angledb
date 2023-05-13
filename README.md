@@ -128,7 +128,12 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 ---------
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/banner.png" width="190px">
+    <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@master/angledb/banner.png" width="300px">
+    </p>
+    <p align="center">
+    Feito com ❤ por <i>Gabriel Gama Alves</i>
+    </p>
 </p>
 
 
