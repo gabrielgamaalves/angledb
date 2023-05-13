@@ -126,11 +126,11 @@ db.users.read() // Exemplo de uso.
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes
 
 ---------
-<<<<<<< HEAD
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" width="190px">
+    <img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/banner.png" width="190px">
 </p>
-=======
-<img src="https://cdn.jsdelivr.net/gh/gabrielgamaalves/cdnme.github@main/angledb/logorepo.png" align="center" width="190px">
->>>>>>> a578c7ec5c5eb6c9865d563a1427b2b9dfe64c75
+
+
+
+
