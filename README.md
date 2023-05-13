@@ -61,7 +61,7 @@ console.log(readAll)
 console.log(readId)
 ```
 ```
-// readAll - Retornou todos os items do database
+# readAll - Retornou todos os items do database
 
    [
     {
@@ -77,7 +77,7 @@ console.log(readId)
    ]
 
 
-// readId - Retornou o item com o _id mencionado
+# readId - Retornou o item com o _id mencionado
 
     {
         "_id": "Jah5Fb0Pfa34Vbg8",
