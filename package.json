@@ -1,6 +1,6 @@
 {
     "name": "angledb",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "Biblioteca de Nodejs, voltada para a criação e edição simples de um banco de dados JSON",
     "keywords": [
       "database",
